@@ -45,9 +45,7 @@ Open the Application:
 Navigate to http://localhost:4200 in your browser.
 
 Thank you
-
-## Screenshots
-
+Image Of my Project Assignemnt
 ### Screenshot 1  
 ![Screenshot 1](https://github.com/Amitkumar-Vaghela/CSE3_Assignment/blob/main/Assignment/Screenshot%202025-03-02%20214347.png)
 
