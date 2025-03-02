@@ -45,3 +45,14 @@ Open the Application:
 Navigate to http://localhost:4200 in your browser.
 
 Thank you
+
+## Screenshots
+
+### Screenshot 1  
+![Screenshot 1](https://github.com/Amitkumar-Vaghela/CSE3_Assignment/blob/main/Assignment/Screenshot%202025-03-02%20214347.png)
+
+### Screenshot 2  
+![Screenshot 2](https://github.com/Amitkumar-Vaghela/CSE3_Assignment/blob/main/Assignment/Screenshot%202025-03-02%20214413.png)
+
+### Screenshot 3  
+![Screenshot 3](https://github.com/Amitkumar-Vaghela/CSE3_Assignment/blob/main/Assignment/Screenshot%202025-03-02%20214435.png)
